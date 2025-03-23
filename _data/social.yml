@@ -26,7 +26,7 @@ twitch: lilmia_casand
 tiktok:
 
 # Share button options
-share:
+share: false
   facebook: 
   twitter: 
   tumblr:
