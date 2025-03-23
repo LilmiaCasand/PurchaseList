@@ -68,13 +68,13 @@ mods:
   author: true
 
 # Build settings
-theme: Type-on-Strap
+theme: type-on-strap
 color_theme: dark
 markdown: kramdown
 sass:
   style: compressed
 
-permalink: pretty
+permalink: https://github.com/sylhare/Type-on-Strap/blob/bcf765c3f6a61b0668466bfe2f611f540cfd9424/type-on-strap.gemspec
 
 exclude:
   - build-scripts
