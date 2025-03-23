@@ -68,7 +68,7 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
+theme: Type-on-Strap
 color_theme: dark
 markdown: kramdown
 sass:
